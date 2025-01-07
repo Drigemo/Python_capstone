@@ -31,9 +31,3 @@ Prerequisites
 -Python 3.8 or higher installed on your system.
 
 -A valid Spoonacular API Key. 
-
--Install required Python packages
-
-```bash
-  pip install requests beautifulsoup4
-```
