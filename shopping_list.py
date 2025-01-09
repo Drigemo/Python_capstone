@@ -54,10 +54,15 @@ class ShoppingListManager:
 
             print("Shopping list and full recipes saved to shopping_list.txt.")
 
-            # Ask user if they want to email the shopping list
-            send_email = input("Do you want to email this shopping list? (yes/no): ").strip().lower()
-            if send_email == "yes":
-                self.email_shopping_list()
+            while True:
+                send_email = input("Do you want to email this shopping list? (yes/no): ").strip().lower()
+                if send_email == "yes":
+                    self.email_shopping_list()
+                elif send_email =="no":
+                    break
+                else:
+                    print("Please choose a valid option('yes' or 'no')")
+
 
         except (FileNotFoundError, json.JSONDecodeError):
             print("No favorite recipes available to generate a shopping list.")
