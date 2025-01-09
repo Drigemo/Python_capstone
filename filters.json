@@ -1,5 +1,5 @@
 {
-    "diet": null,
-    "cuisine": "Japanese",
-    "max_time": null
+    "diet": "Ketogenic",
+    "cuisine": "Mexican",
+    "max_time": 10
 }

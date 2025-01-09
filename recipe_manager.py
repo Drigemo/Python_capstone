@@ -15,7 +15,7 @@ class RecipeManager:
         :return: A clean string without HTML tags.
         """
         if text:
-            clean = re.sub(r"<.*?>", "", text)  # Regex to remove anything within <>
+            clean = re.sub(r"<.*?>", "", text)  
             return clean.strip()
         return "No instructions available."
 

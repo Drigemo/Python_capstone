@@ -33,12 +33,12 @@ class Filters:
     def update_filters(self):
         print("\n--- Add or Update Filters ---")
         while True:
-            diet = input("Enter dietary preference (e.g., vegetarian, vegan) or press Enter to skip: ").strip().lower()
+            diet = input("Enter dietary preference (e.g., vegetarian, vegan) or press Enter to skip: ").strip().title()
             if not diet or diet.capitalize() in self.VALID_DIETS:
                 break
             print("Invalid dietary preference. Choose from:", ", ".join(self.VALID_DIETS))
         while True:
-            cuisine = input("Enter cuisine type (e.g., Italian, Mexican) or press Enter to skip: ").strip().lower()
+            cuisine = input("Enter cuisine type (e.g., Italian, Mexican) or press Enter to skip: ").strip().title()
             if not cuisine or cuisine.capitalize() in self.VALID_CUISINES:
                 break
             print("Invalid cuisine. Choose from:", ", ".join(self.VALID_CUISINES))

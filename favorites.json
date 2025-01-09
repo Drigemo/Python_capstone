@@ -766,5 +766,425 @@
         "sourceUrl": "https://www.foodista.com/recipe/PLJM7MZK/la-bella-burger",
         "instructions": "Mix first 8 ingredients together thoroughly then add salt &amp; pepper and olive oil. Form 8 thin patties with the meat mixture. Cut mozzarella into 1/4 inch pieces. On top of one patty, scatter 4-5 mozzarella pieces throughout the center of the meat leaving a little space between each cube. Be careful not to put cheese too close to the edges or it will leak out during grilling. Place another patty on top and seal edges together until cheese is completely buried.Cut off the top of the red bell pepper and remove seeds and core. Then slice into 1/4 rings and brush lightly with olive oil.Pesto Sauce:  In a dry frying pan, quickly toast the pine nuts. Should take less than 3 minutes. In a food processor, pulse basil leaves, toasted pine nuts and salt &amp; pepper. simultaneously adding olive oil through the feed tube. Once good puree is achieved, add the mayo and pulse 2-3 more times, scraping sides to make sure its thoroughly mixed. Cook burgers meat over low to medium heat. Be sure to coat grill with non-stick spray. Cook about 8-10 minutes on each side. Try not to flip the burger too often as it tends to crumble. If the mozzarella starts to ooze out, don't worry... that's a sign that your burger is almost done.Place red pepper rings on the upper or outer edges of grill. Cook 2-3 minutes on each side. Brush olive oil on the insides of both halves of the sourdough buns and also place on the upper or outer edges of grill. Remove when lightly toasted.Spread pesto sauce on top &amp; bottom bun. place spinach leaves on bottom bun and place meat on top of spinach leaves. Garnish top of meat with grilled red bell pepper, fold the halves together and you have La Bella Burger!",
         "enabled": true
+    },
+    {
+        "id": 645733,
+        "title": "Grilled Ham and Swiss Sandwich",
+        "image": "https://img.spoonacular.com/recipes/645733-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 2,
+        "missedIngredientCount": 2,
+        "missedIngredients": [
+            {
+                "id": 1001,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "pats of butter",
+                "original": "2 pats of butter",
+                "originalName": "pats of butter",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/butter-sliced.jpg"
+            },
+            {
+                "id": 10010151,
+                "amount": 3.0,
+                "unit": "Pieces",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Meat",
+                "name": "ham",
+                "original": "3 Pieces Thin Sliced Ham",
+                "originalName": "Thin Sliced Ham",
+                "meta": [
+                    "sliced",
+                    "thin"
+                ],
+                "image": "https://img.spoonacular.com/ingredients_100x100/ham.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 1040,
+                "amount": 2.0,
+                "unit": "Slices",
+                "unitLong": "Slices",
+                "unitShort": "slice",
+                "aisle": "Cheese",
+                "name": "swiss cheese",
+                "original": "2 Slices Swiss Cheese",
+                "originalName": "Swiss Cheese",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/Swiss-cheese.jpg"
+            },
+            {
+                "id": 18069,
+                "amount": 2.0,
+                "unit": "Slices",
+                "unitLong": "Slices",
+                "unitShort": "slice",
+                "aisle": "Bakery/Bread",
+                "name": "bread",
+                "original": "2 Slices White Bread",
+                "originalName": "White Bread",
+                "meta": [
+                    "white"
+                ],
+                "extendedName": "white bread",
+                "image": "https://img.spoonacular.com/ingredients_100x100/white-bread.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1,
+        "sourceUrl": "https://www.foodista.com/recipe/HB2QCPZY/grilled-ham-and-swiss-sandwich",
+        "instructions": "Melt butter in skillet.Stack sandwich like so: bread, ham, ham, ham, swiss, bread.Place sandwich in skillet, let brown.  Adjust heat as needed.Remove the sandwich briefly from the skillet, add the other piece of butter and let it melt.Flip sandwich over and brown. Cook until cheese is melted.Eat hot.",
+        "enabled": false
+    },
+    {
+        "id": 640909,
+        "title": "Croque-Madame with Asparagus",
+        "image": "https://img.spoonacular.com/recipes/640909-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 4,
+        "missedIngredientCount": 6,
+        "missedIngredients": [
+            {
+                "id": 11011,
+                "amount": 1.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Produce",
+                "name": "bundle of asparagus",
+                "original": "1 bundle of asparagus, tough ends snapped off",
+                "originalName": "bundle of asparagus, tough ends snapped off",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/asparagus.png"
+            },
+            {
+                "id": 1145,
+                "amount": 1.0,
+                "unit": "T",
+                "unitLong": "tablespoon",
+                "unitShort": "Tbsp",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "butter",
+                "original": "1 T. unsalted butter",
+                "originalName": "unsalted butter",
+                "meta": [
+                    "unsalted"
+                ],
+                "extendedName": "unsalted butter",
+                "image": "https://img.spoonacular.com/ingredients_100x100/butter-sliced.jpg"
+            },
+            {
+                "id": 1077,
+                "amount": 1.0,
+                "unit": "c",
+                "unitLong": "cup",
+                "unitShort": "cup",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "milk",
+                "original": "1 c. hot milk",
+                "originalName": "hot milk",
+                "meta": [
+                    "hot"
+                ],
+                "image": "https://img.spoonacular.com/ingredients_100x100/milk.png"
+            },
+            {
+                "id": 1002025,
+                "amount": 1.0,
+                "unit": "dash",
+                "unitLong": "dash",
+                "unitShort": "dash",
+                "aisle": "Spices and Seasonings",
+                "name": "nutmeg",
+                "original": "dash of fresh nutmeg",
+                "originalName": "fresh nutmeg",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh nutmeg",
+                "image": "https://img.spoonacular.com/ingredients_100x100/ground-nutmeg.jpg"
+            },
+            {
+                "id": 1032046,
+                "amount": 4.0,
+                "unit": "servings",
+                "unitLong": "servings",
+                "unitShort": "servings",
+                "aisle": "Condiments",
+                "name": "dijon mustard",
+                "original": "Dijon mustard",
+                "originalName": "Dijon mustard",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/dijon-mustard.jpg"
+            },
+            {
+                "id": 1123,
+                "amount": 4.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "eggs",
+                "original": "4 eggs, poached or fried",
+                "originalName": "eggs, poached or fried",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/egg.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 1023,
+                "amount": 8.0,
+                "unit": "oz",
+                "unitLong": "ounces",
+                "unitShort": "oz",
+                "aisle": "Cheese",
+                "name": "gruyere cheese",
+                "original": "8 oz. Gruyere cheese, shredded",
+                "originalName": "Gruyere cheese, shredded",
+                "meta": [
+                    "shredded"
+                ],
+                "extendedName": "shredded gruyere cheese",
+                "image": "https://img.spoonacular.com/ingredients_100x100/gruyere.jpg"
+            },
+            {
+                "id": 1032,
+                "amount": 0.25,
+                "unit": "c",
+                "unitLong": "cups",
+                "unitShort": "cup",
+                "aisle": "Cheese",
+                "name": "parmesan cheese",
+                "original": "1/4 c. fresh grated Parmesan cheese",
+                "originalName": "fresh grated Parmesan cheese",
+                "meta": [
+                    "fresh",
+                    "grated"
+                ],
+                "extendedName": "fresh parmesan cheese",
+                "image": "https://img.spoonacular.com/ingredients_100x100/parmesan.jpg"
+            },
+            {
+                "id": 18069,
+                "amount": 8.0,
+                "unit": "slices",
+                "unitLong": "slices",
+                "unitShort": "slice",
+                "aisle": "Bakery/Bread",
+                "name": "bread",
+                "original": "8 slices of good quality white bread, crusts trimmed",
+                "originalName": "good quality white bread, crusts trimmed",
+                "meta": [
+                    "white",
+                    "trimmed"
+                ],
+                "extendedName": "trimmed white bread",
+                "image": "https://img.spoonacular.com/ingredients_100x100/white-bread.jpg"
+            },
+            {
+                "id": 93756,
+                "amount": 4.0,
+                "unit": "slices",
+                "unitLong": "slices",
+                "unitShort": "slice",
+                "aisle": "Meat",
+                "name": "forest ham",
+                "original": "4 slices of Black Forest ham",
+                "originalName": "Black Forest ham",
+                "meta": [
+                    "black"
+                ],
+                "extendedName": "black forest ham",
+                "image": "https://img.spoonacular.com/ingredients_100x100/black-forest-ham.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1,
+        "sourceUrl": "https://www.foodista.com/recipe/QT3QTDD4/croque-madame-with-asparagus",
+        "instructions": "Preheat oven to 400 degrees f. On a large baking sheet, toss asparagus with a little olive oil, salt & pepper. Roast until just tender, about 10 minutes, shaking the pan once or twice to redistribute the asparagus. Remove from oven and set aside.\nMelt the butter in a small saucepan over low heat, whisk in the flour, cook and stir for about 2 minutes. Slowly whisk in the milk, increase the heat to medium-high and bring to a simmer, stirring constantly, simmer for about 2 minutes to thicken. Remove from heat, add nutmeg, 1/8 t. salt, a bit of fresh ground black pepper, 1/4 c. shredded Gruyere and 1/4 c. Parmesan. Stir to combine, set aside.\nOn another baking sheet, place the bread slices. Bake for 5 minutes, flip bread and bake about another 4 minutes (keeping an eye on it), until the bread is lightly toasted. Remove from oven. Spread 4 of the slices lightly with Dijon mustard, top with a layer of ham, a few asparagus spears and half the remaining Gruyere cheese. Top with the remaining toasted bread. Slather the tops of the sandwiches with some of the bechamel sauce and top with the rest of the cheese. Bake sandwiches for 5 minutes, then broil until bubbly and golden, about another 3-5 minutes. Serve sandwiches topped with a poached or fried egg.",
+        "enabled": false
+    },
+    {
+        "id": 645733,
+        "title": "Grilled Ham and Swiss Sandwich",
+        "image": "https://img.spoonacular.com/recipes/645733-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 3,
+        "missedIngredientCount": 1,
+        "missedIngredients": [
+            {
+                "id": 1001,
+                "amount": 2.0,
+                "unit": "",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "pats of butter",
+                "original": "2 pats of butter",
+                "originalName": "pats of butter",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/butter-sliced.jpg"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 10010151,
+                "amount": 3.0,
+                "unit": "Pieces",
+                "unitLong": "",
+                "unitShort": "",
+                "aisle": "Meat",
+                "name": "ham",
+                "original": "3 Pieces Thin Sliced Ham",
+                "originalName": "Thin Sliced Ham",
+                "meta": [
+                    "sliced",
+                    "thin"
+                ],
+                "image": "https://img.spoonacular.com/ingredients_100x100/ham.png"
+            },
+            {
+                "id": 1040,
+                "amount": 2.0,
+                "unit": "Slices",
+                "unitLong": "Slices",
+                "unitShort": "slice",
+                "aisle": "Cheese",
+                "name": "swiss cheese",
+                "original": "2 Slices Swiss Cheese",
+                "originalName": "Swiss Cheese",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/Swiss-cheese.jpg"
+            },
+            {
+                "id": 18069,
+                "amount": 2.0,
+                "unit": "Slices",
+                "unitLong": "Slices",
+                "unitShort": "slice",
+                "aisle": "Bakery/Bread",
+                "name": "bread",
+                "original": "2 Slices White Bread",
+                "originalName": "White Bread",
+                "meta": [
+                    "white"
+                ],
+                "extendedName": "white bread",
+                "image": "https://img.spoonacular.com/ingredients_100x100/white-bread.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1,
+        "sourceUrl": "https://www.foodista.com/recipe/HB2QCPZY/grilled-ham-and-swiss-sandwich",
+        "instructions": "Melt butter in skillet.Stack sandwich like so: bread, ham, ham, ham, swiss, bread.Place sandwich in skillet, let brown.  Adjust heat as needed.Remove the sandwich briefly from the skillet, add the other piece of butter and let it melt.Flip sandwich over and brown. Cook until cheese is melted.Eat hot.",
+        "enabled": false
+    },
+    {
+        "id": 632908,
+        "title": "Asparagus & Ham Spirals",
+        "image": "https://img.spoonacular.com/recipes/632908-312x231.jpg",
+        "imageType": "jpg",
+        "usedIngredientCount": 3,
+        "missedIngredientCount": 3,
+        "missedIngredients": [
+            {
+                "id": 11011,
+                "amount": 1.0,
+                "unit": "serving",
+                "unitLong": "serving",
+                "unitShort": "serving",
+                "aisle": "Produce",
+                "name": "asparagus",
+                "original": "Fresh Asparagus",
+                "originalName": "Fresh Asparagus",
+                "meta": [
+                    "fresh"
+                ],
+                "extendedName": "fresh asparagus",
+                "image": "https://img.spoonacular.com/ingredients_100x100/asparagus.png"
+            },
+            {
+                "id": 1001,
+                "amount": 1.0,
+                "unit": "serving",
+                "unitLong": "serving",
+                "unitShort": "serving",
+                "aisle": "Milk, Eggs, Other Dairy",
+                "name": "butter",
+                "original": "Butter",
+                "originalName": "Butter",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/butter-sliced.jpg"
+            },
+            {
+                "id": 1022020,
+                "amount": 1.0,
+                "unit": "serving",
+                "unitLong": "serving",
+                "unitShort": "serving",
+                "aisle": "Spices and Seasonings",
+                "name": "garlic powder",
+                "original": "Garlic Powder",
+                "originalName": "Garlic Powder",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/garlic-powder.png"
+            }
+        ],
+        "usedIngredients": [
+            {
+                "id": 93748,
+                "amount": 1.0,
+                "unit": "serving",
+                "unitLong": "serving",
+                "unitShort": "serving",
+                "aisle": "Cheese",
+                "name": "chive and onion cream cheese",
+                "original": "Chive and onion cream cheese",
+                "originalName": "Chive and onion cream cheese",
+                "meta": [],
+                "image": "https://img.spoonacular.com/ingredients_100x100/green-onion-cream-cheese-dip.jpg"
+            },
+            {
+                "id": 93618,
+                "amount": 1.0,
+                "unit": "can",
+                "unitLong": "can",
+                "unitShort": "can",
+                "aisle": "Refrigerated",
+                "name": "crescent roll dough",
+                "original": "1 can of crescent roll dough",
+                "originalName": "crescent roll dough",
+                "meta": [],
+                "extendedName": "canned crescent roll dough",
+                "image": "https://img.spoonacular.com/ingredients_100x100/crescent-rolls.jpg"
+            },
+            {
+                "id": 10151,
+                "amount": 1.0,
+                "unit": "serving",
+                "unitLong": "serving",
+                "unitShort": "serving",
+                "aisle": "Meat",
+                "name": "honey ham",
+                "original": "Honey Ham deli style",
+                "originalName": "Honey Ham deli style",
+                "meta": [
+                    "deli style"
+                ],
+                "image": "https://img.spoonacular.com/ingredients_100x100/ham-whole.jpg"
+            }
+        ],
+        "unusedIngredients": [],
+        "likes": 1,
+        "sourceUrl": "http://www.foodista.com/recipe/KF2ZDRWB/asparagus-ham-spirals",
+        "instructions": "Pre-heat the oven to 375.Start you asparagus on the stove top, place the trimmed asparagus in a skillet and cover with water. Bring to a  boil and reduce to a simmer for 3-5 minutes. When completed, drain and set aside.Open the can of dough, instead of triangles pair two triangles to create a rectangle. You'll have four rectangles. Spread some cream cheese over the dough almost to the edges. Next lay down a few pieces of deli ham, top with asparagus stalks. Roll the dough over long ways and gently press to seal the edge. {Try to roll these tightly, the asparagus will fall out otherwise!}With a sharp knife, slice the rolled spirals into 7-8 pieces. Place the pieces about 1 inch apart on a greased baking sheet. Melt about a tablespoon of butter and combine with a sprinkle of garlic powder. Brush or drizzle the butter over the tops of the spiral. Bake in the oven for 10-12 minutes, or until golden brown.",
+        "enabled": true
     }
 ]

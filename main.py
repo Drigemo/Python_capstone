@@ -1,9 +1,12 @@
 from filters import Filters
 from recipe_manager import RecipeManager
 from menu import Menu
+from dotenv import load_dotenv
+import os
 
 if __name__ == "__main__":
-    api_key = "c44bbe543bd2426b830522a7643feabc"
+    load_dotenv()
+    api_key = os.getenv("SPOONACULAR_API_KEY")
     filters = Filters()
     recipe_manager = RecipeManager(api_key, filters)
     menu = Menu(recipe_manager)
