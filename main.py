@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import os
 
 if __name__ == "__main__":
-    load_dotenv()
+    load_dotenv("passwords.env")
     api_key = os.getenv("SPOONACULAR_API_KEY")
     filters = Filters()
     recipe_manager = RecipeManager(api_key, filters)

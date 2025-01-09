@@ -1,6 +1,10 @@
+from shopping_list import ShoppingListManager
+
+
 class Menu:
     def __init__(self, recipe_manager):
         self.recipe_manager = recipe_manager
+        self.shopping_list_manager = ShoppingListManager(recipe_manager)  # Pass recipe_manager
 
     def display(self):
         while True:
@@ -22,7 +26,7 @@ class Menu:
             elif choice == "4":
                 self.recipe_manager.view_and_toggle_favorites()
             elif choice == "5":
-                self.recipe_manager.generate_shopping_list_from_favorites()
+                self.shopping_list_manager.generate_shopping_list() 
             elif choice == "x":
                 print("Exiting the program.")
                 break
